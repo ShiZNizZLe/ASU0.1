@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel to database 3", "Excel to database 3\Excel to database 3.csproj", "{EA8ACE74-C50F-4AA5-83CD-1A5E0BEF8428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8ACE74-C50F-4AA5-83CD-1A5E0BEF8428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8ACE74-C50F-4AA5-83CD-1A5E0BEF8428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8ACE74-C50F-4AA5-83CD-1A5E0BEF8428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8ACE74-C50F-4AA5-83CD-1A5E0BEF8428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF91928-A48E-49B2-8060-E2C823897820}
+	EndGlobalSection
+EndGlobal
